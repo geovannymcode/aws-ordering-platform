@@ -1,0 +1,32 @@
+
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# Java
+*.class
+*.log
+hs_err_pid*
+
+# VS Code
+.vscode/
+.history/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Variables y credenciales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+
+# Archivos temporales
+*.tmp
+*.bak
